@@ -1,0 +1,196 @@
+body{
+	font-family: sans-serif;
+	margin: 0px;
+	background-size: cover;
+}
+ul{
+	text-align: top;
+	list-style: none;
+	padding: 0px;
+	margin: 0px;
+}
+a{
+	font-size: 20px;
+	text-decoration: none;
+	color: black;
+}
+h1{
+	margin: 0px;
+}
+p{
+	margin: 0px;
+}
+/*############################################################index*###########################################################*/
+#body1{
+	background-image: url("img/fundo.jpg");
+}
+#fundomenu{
+	padding: 10px;
+	text-align: center;
+	background-color: rgba(102, 102, 102, 1.0);
+}
+.botoes{
+    color: black;
+    width: 100px;
+    margin-left: 30px;
+    display: inline-block;
+}
+.botoes:hover{
+	color: #9b9b9b;
+	text-decoration: underline;
+}
+#fundobotoes{
+	text-align: top;
+}
+#fundomenuindex{
+	height: 100px;
+}
+#h1{
+	width: 500px;
+	font-size: 35px;
+	margin: 0px 0px 0px 0px;
+	color: red;
+}
+#index_infos{
+	width: 700px;
+	height: 500px;
+	padding-left: 5px;
+	font-size: 25px;
+	margin: 0px 0px 0px 0px;
+	color: black;
+}
+#indexinfos{
+	text-align: justify;
+}
+/*#####################################################################pagina1################################################*/
+#body2{
+	background-image: url("img/fundo2.jpg");
+}
+#fundomenu2{
+	padding: 10px;
+	text-align: center;
+	background-color: rgba(237, 94, 43, 0.9);
+}
+#botoes2:hover{
+	color: #f39c7d;
+	text-decoration: underline;
+}
+#h1_1{
+	padding-right: 5px;
+	float: right;
+	margin: 0px;
+	width: 1000px;
+	font-size: 35px;
+	margin: 0px 0px 0px 0px;
+	color: #f5f7f6;
+}
+#pag1infos{
+	padding-right: 5px;
+	text-align: justify;
+	float: right;
+	width: 1000px;
+	font-size: 25px;
+	margin: 0px 0px 0px 0px;
+	color: #f5f7f6;
+}
+#fonte{
+	padding-right: 5px;
+	float: right;
+	width: 1000px;
+	font-size: 10px;
+	font-size: 15px;
+	margin: 0px 0px 0px 0px;
+	color: #f5f7f6;
+}
+#fontes{
+	width: 1000px;
+	font-size: 10px;
+	font-size: 15px;
+	color: #f5f7f6;
+}
+#fontes:hover{
+	color: #f5f7f6;
+	text-decoration: underline;
+}
+#logo{
+	padding-top: 25%;
+}
+/*#####################################################################pagina2##########################################*/
+#body3{
+	background-image: url("img/fundo3.jpg");
+}
+#fundomenu3{
+	text-align: center;
+	padding: 10px;
+	background-color: rgba(223, 185, 14, 1.0);
+}
+#botoes3:hover{
+	color: #f5d547;
+	text-decoration: underline;
+}
+#h1_2{
+	padding-left: 5px;
+	width: 1000px;
+	font-size: 35px;
+	margin: 0px 0px 0px 0px;
+	color: #f5f7f6;
+}
+#pag2infos{
+	padding-left: 5px;
+	text-align: justify;
+	width: 1000px;
+	font-size: 25px;
+	font-size: 25px;
+	margin: 0px 0px 0px 0px;
+	color: #f5f7f6;
+}
+#fonte2{
+	padding-left: 5px;
+	width: 1000px;
+	font-size: 10px;
+	font-size: 15px;
+	margin: 0px 20px 0px 0px;
+	color: #f5f7f6;
+}
+#fontes2{
+	width: 1000px;
+	font-size: 10px;
+	font-size: 15px;
+	color: #f5f7f6;
+}
+#fontes2:hover{
+	color: #f5f7f6;
+	text-decoration: underline;
+}
+/*#####################################################################contatos##########################################*/
+#body4{
+	background-image: url("img/fundo4.jpg");
+}
+#fundomenu4{
+	text-align: center;
+	background-color: rgba(185, 255, 253, 0.7);
+	padding: 10px;
+}
+#botoes4:hover{
+	color: #1a627d;
+	text-decoration: underline;
+}
+#h1_3{
+	padding-left: 5px;
+	width: 1000px;
+	font-size: 35px;
+	margin: 0px 0px 0px 0px;
+	color: #f5f7f6;
+}
+#pag3infos{
+	padding-left: 5px;
+	width: 1000px;
+	font-size: 25px;
+	margin: 0px 0px 0px 0px;
+	color: #f5f7f6;
+}
+#formulario{
+	padding-left: 5px;
+	font-size: 20px;
+	color: white;
+}
